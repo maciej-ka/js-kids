@@ -1,8 +1,8 @@
 ### Js for kids
-Tiny lib to read, write and say as simple as possible.  
-Meant to introduce kids to programming without a need of:  
-- long method invocations  
-- async/await
+Read, write and say a string as simple as possible.
+Made for teaching kids programming.
+- no long method invocations
+- no async/await
 
 #### Example
 ```javascript
