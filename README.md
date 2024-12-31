@@ -2,7 +2,7 @@
 Read, write and say a string as simple as possible.  
 Made for teaching kids programming.  
 - no long method invocations
-m no async/await
+- no async/await
 
 #### Example
 ```javascript
