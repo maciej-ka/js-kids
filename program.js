@@ -1,1 +1,3 @@
-import { read, print, println, say } from "./lib.js"
+import { print, println, say, rand, read, readnum } from "./lib.js"
+
+

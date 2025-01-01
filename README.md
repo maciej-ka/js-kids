@@ -16,7 +16,7 @@ say("Hello, ")
 say(name)
 ```
 
-### Run
+### Running
 ```bash
 git clone https://github.com/maciej-ka/js-kids.git
 cd js-kids
@@ -30,7 +30,6 @@ OSX to run `say`
 
 ### API
 ```javascript
-import { print, println, say, read, readnum, rand } from "./lib.js"
 print("hello")
 println("hello")       // print and add new line
 say("hello")           // use OSX voice synthesizer
@@ -44,9 +43,7 @@ let number = readnum() // read as number
 ```javascript
 import { print, println, rand, readnum } from "./lib.js"
 
-// Guess a number
 println("How many stars I have?")
-
 let stars
 stars = rand(5)
 let guess
@@ -62,3 +59,4 @@ if (guess !== stars) {
   println(" stars")
 }
 ```
+
