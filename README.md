@@ -4,7 +4,6 @@ Made for teaching young kids programming.
 - minimal method calls
 - only synchronous
 
-#### Example
 ```javascript
 import { print, println, say, read } from "./lib.js"
 
