@@ -1,9 +1,9 @@
 import { read, print, println, say } from "./lib.js"
 
-println('Jak masz na imię?')
-const imie = read()
-print('Cześć, ')
-println(imie)
+println("What's your name?")
+const name = read()
+print("Hello, ")
+println(name)
 
-say('Cześć, ')
-say(imie)
+say("Hello, ")
+say(name)
