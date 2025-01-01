@@ -1,7 +1,7 @@
 ### Javascript (Node) for kids
 Read, write and say a string as simple as possible.  
 Made for teaching young kids programming.  
-- short method calls
+- minimal method calls
 - only synchronous
 
 #### Example
@@ -26,6 +26,6 @@ node ./program.js
 ```
 
 #### Requirements
-Node  
+Node 12 or higher  
 OSX to run `say`
 
