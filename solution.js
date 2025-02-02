@@ -26,3 +26,28 @@ if (guess !== stars) {
   print(stars)
   println(" stars")
 }
+
+
+// Guess a number
+println("Write 6, 7 or 8")
+let numer
+numer = readnum()
+if (numer === 6) {
+  say("six")
+}
+if (numer === 7) {
+  say("seven")
+}
+if (numer === 8) {
+  say("eight")
+}
+
+println("How many stars would you rate me")
+numer = readnum()
+if (numer < 5) {
+  say("no way")
+}
+if (numer === 5) {
+  say("yesss")
+}
+
